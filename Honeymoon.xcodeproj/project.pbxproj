@@ -7,18 +7,40 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3CAC280929588A6700D2B718 /* Footer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CAC280829588A6700D2B718 /* Footer.swift */; };
+		3CAC280C295892B900D2B718 /* GuideComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CAC280B295892B900D2B718 /* GuideComponent.swift */; };
+		3CAC280E2958970D00D2B718 /* GuideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CAC280D2958970D00D2B718 /* GuideView.swift */; };
+		3CAC281029589C9800D2B718 /* GuideHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CAC280F29589C9800D2B718 /* GuideHeader.swift */; };
+		3CAC28122958B1C400D2B718 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CAC28112958B1C400D2B718 /* InfoView.swift */; };
+		3CAC28152958B30000D2B718 /* TitleModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CAC28142958B30000D2B718 /* TitleModifier.swift */; };
+		3CAC28172958B5A900D2B718 /* InfoItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CAC28162958B5A900D2B718 /* InfoItem.swift */; };
+		3CAC28192958BB2700D2B718 /* ButtonModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CAC28182958BB2700D2B718 /* ButtonModifier.swift */; };
 		3CCEA0BA29587BC400912EFB /* HoneymoonApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CCEA0B929587BC400912EFB /* HoneymoonApp.swift */; };
 		3CCEA0BC29587BC400912EFB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CCEA0BB29587BC400912EFB /* ContentView.swift */; };
 		3CCEA0BE29587BC600912EFB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3CCEA0BD29587BC600912EFB /* Assets.xcassets */; };
 		3CCEA0C129587BC600912EFB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3CCEA0C029587BC600912EFB /* Preview Assets.xcassets */; };
+		3CCEA0CB29587D1400912EFB /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CCEA0CA29587D1400912EFB /* Card.swift */; };
+		3CCEA0CD2958845B00912EFB /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CCEA0CC2958845B00912EFB /* Home.swift */; };
+		3CCEA0CF2958848400912EFB /* Header.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CCEA0CE2958848400912EFB /* Header.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3CAC280829588A6700D2B718 /* Footer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Footer.swift; sourceTree = "<group>"; };
+		3CAC280B295892B900D2B718 /* GuideComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuideComponent.swift; sourceTree = "<group>"; };
+		3CAC280D2958970D00D2B718 /* GuideView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuideView.swift; sourceTree = "<group>"; };
+		3CAC280F29589C9800D2B718 /* GuideHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuideHeader.swift; sourceTree = "<group>"; };
+		3CAC28112958B1C400D2B718 /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
+		3CAC28142958B30000D2B718 /* TitleModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleModifier.swift; sourceTree = "<group>"; };
+		3CAC28162958B5A900D2B718 /* InfoItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoItem.swift; sourceTree = "<group>"; };
+		3CAC28182958BB2700D2B718 /* ButtonModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonModifier.swift; sourceTree = "<group>"; };
 		3CCEA0B629587BC400912EFB /* Honeymoon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Honeymoon.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3CCEA0B929587BC400912EFB /* HoneymoonApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HoneymoonApp.swift; sourceTree = "<group>"; };
 		3CCEA0BB29587BC400912EFB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3CCEA0BD29587BC600912EFB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3CCEA0C029587BC600912EFB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3CCEA0CA29587D1400912EFB /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		3CCEA0CC2958845B00912EFB /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		3CCEA0CE2958848400912EFB /* Header.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Header.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +54,28 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3CAC280A2958928A00D2B718 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				3CCEA0CA29587D1400912EFB /* Card.swift */,
+				3CCEA0CE2958848400912EFB /* Header.swift */,
+				3CAC280829588A6700D2B718 /* Footer.swift */,
+				3CAC280B295892B900D2B718 /* GuideComponent.swift */,
+				3CAC280F29589C9800D2B718 /* GuideHeader.swift */,
+				3CAC28162958B5A900D2B718 /* InfoItem.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		3CAC28132958B2EE00D2B718 /* Modifiers */ = {
+			isa = PBXGroup;
+			children = (
+				3CAC28142958B30000D2B718 /* TitleModifier.swift */,
+				3CAC28182958BB2700D2B718 /* ButtonModifier.swift */,
+			);
+			path = Modifiers;
+			sourceTree = "<group>";
+		};
 		3CCEA0AD29587BC400912EFB = {
 			isa = PBXGroup;
 			children = (
@@ -51,6 +95,11 @@
 		3CCEA0B829587BC400912EFB /* Honeymoon */ = {
 			isa = PBXGroup;
 			children = (
+				3CAC28132958B2EE00D2B718 /* Modifiers */,
+				3CAC280A2958928A00D2B718 /* Components */,
+				3CCEA0C929587D0500912EFB /* View */,
+				3CCEA0C829587CF700912EFB /* Model */,
+				3CCEA0C729587CED00912EFB /* Data */,
 				3CCEA0B929587BC400912EFB /* HoneymoonApp.swift */,
 				3CCEA0BB29587BC400912EFB /* ContentView.swift */,
 				3CCEA0BD29587BC600912EFB /* Assets.xcassets */,
@@ -65,6 +114,30 @@
 				3CCEA0C029587BC600912EFB /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		3CCEA0C729587CED00912EFB /* Data */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		3CCEA0C829587CF700912EFB /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		3CCEA0C929587D0500912EFB /* View */ = {
+			isa = PBXGroup;
+			children = (
+				3CCEA0CC2958845B00912EFB /* Home.swift */,
+				3CAC280D2958970D00D2B718 /* GuideView.swift */,
+				3CAC28112958B1C400D2B718 /* InfoView.swift */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +210,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3CAC28192958BB2700D2B718 /* ButtonModifier.swift in Sources */,
+				3CAC280929588A6700D2B718 /* Footer.swift in Sources */,
+				3CCEA0CF2958848400912EFB /* Header.swift in Sources */,
 				3CCEA0BC29587BC400912EFB /* ContentView.swift in Sources */,
+				3CAC28152958B30000D2B718 /* TitleModifier.swift in Sources */,
+				3CAC280E2958970D00D2B718 /* GuideView.swift in Sources */,
+				3CCEA0CB29587D1400912EFB /* Card.swift in Sources */,
+				3CCEA0CD2958845B00912EFB /* Home.swift in Sources */,
+				3CAC281029589C9800D2B718 /* GuideHeader.swift in Sources */,
+				3CAC28172958B5A900D2B718 /* InfoItem.swift in Sources */,
 				3CCEA0BA29587BC400912EFB /* HoneymoonApp.swift in Sources */,
+				3CAC28122958B1C400D2B718 /* InfoView.swift in Sources */,
+				3CAC280C295892B900D2B718 /* GuideComponent.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
